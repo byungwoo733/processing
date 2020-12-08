@@ -13,3 +13,7 @@ https://pde2js.herokuapp.com/
 Free Sprite Sheet Packer:
 
 https://www.codeandweb.com/free-sprite-sheet-packer
+
+Hardware Kits:
+
+Raspberry Pi Series & Arduino Series

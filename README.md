@@ -14,6 +14,6 @@ Free Sprite Sheet Packer:
 
 https://www.codeandweb.com/free-sprite-sheet-packer
 
-Hardware Kits:
+Video Game Control Hardware Kits:
 
 Raspberry Pi Series & Arduino Series

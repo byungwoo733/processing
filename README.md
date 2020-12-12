@@ -32,6 +32,10 @@ LMMS
 
 https://lmms.io/
 
+Audacity
+
+https://www.audacityteam.org/
+
 ==========================
 
 Video Game Control Hardware Kits:
@@ -46,9 +50,11 @@ Tizen Studio
 
 --------------------------
 
+[OS Platform]
+
 Tizen
 
-Tizen - Bsd 3 Clause / MIT License Version
+Tizen - BSD 3 Clause License Version
 
 https://www.tizen.org/bsd-3-clause-license?langredirect=1
 

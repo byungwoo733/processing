@@ -44,9 +44,9 @@ Raspberry Pi Series & Arduino Series
 
 ==========================
 
-[Development Tool]
+[Application Development Tool]
 
-Tizen Studio
+Tizen Studio / Visual Studio Code / processing
 
 --------------------------
 

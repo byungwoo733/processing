@@ -18,6 +18,22 @@ https://www.codeandweb.com/free-sprite-sheet-packer
 
 ==========================
 
+[Midi Tools]
+
+Sonic Pi
+
+https://sonic-pi.net/
+
+Online Sequencer
+
+https://onlinesequencer.net/
+
+LMMS
+
+https://lmms.io/
+
+==========================
+
 Video Game Control Hardware Kits:
 
 Raspberry Pi Series & Arduino Series

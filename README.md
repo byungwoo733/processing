@@ -12,6 +12,28 @@ https://pde2js.herokuapp.com/
 
 ==========================
 
+[2D Free Software Online / Offline Sprite Design Tool]
+
+PISKEL
+
+https://www.piskelapp.com/
+
+==========================
+
+[3D Charactor Free Software Modeling Tool]
+
+Blender
+
+https://www.blender.org/
+
+ZBrushCoreMini (Formaly. Sculptris)
+
+https://zbrushcore.com/mini/
+
+==========================
+
+==========================
+
 Free Sprite Sheet Packer:
 
 https://www.codeandweb.com/free-sprite-sheet-packer

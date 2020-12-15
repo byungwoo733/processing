@@ -34,8 +34,6 @@ https://www.codeandweb.com/free-sprite-sheet-packer
 
 ==========================
 
-==========================
-
 [3D Charactor Free Software Modeling Tool]
 
 Blender

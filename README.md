@@ -98,6 +98,10 @@ WebAssembly Studio
 
 https://webassembly.studio/
 
+WasmFiddle
+
+https://wasdk.github.io/WasmFiddle/
+
 --------------------------
 
 [OS Platform]
